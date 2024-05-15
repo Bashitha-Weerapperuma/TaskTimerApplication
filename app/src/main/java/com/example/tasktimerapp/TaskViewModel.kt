@@ -1,5 +1,8 @@
 package com.example.tasktimerapp
-
+//Class Declaration: TaskViewModel
+//Constructor
+//TaskDatabase Connection:
+// Database Operations
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData

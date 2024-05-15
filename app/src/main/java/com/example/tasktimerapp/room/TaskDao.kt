@@ -1,5 +1,7 @@
 package com.example.tasktimerapp.room
-
+//@Dao Annotation: Data Access Object.
+//Query Methods:
+//Insert, Delete, and Update Methods:
 import androidx.lifecycle.LiveData
 import androidx.room.*
 

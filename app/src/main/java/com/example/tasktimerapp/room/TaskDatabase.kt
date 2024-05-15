@@ -1,5 +1,7 @@
 package com.example.tasktimerapp.room
-
+//@Database Annotation room data base
+//Abstract Methods:
+//
 import android.content.Context
 import androidx.room.Database
 import androidx.room.Room

@@ -1,5 +1,5 @@
 package com.example.tasktimerapp.rv_adapter
-
+//Class Declaration: , Constructor, ItemViewHolder, onCreateViewHolder,onBindViewHolder
 import android.content.Context
 import android.os.SystemClock
 import android.view.LayoutInflater

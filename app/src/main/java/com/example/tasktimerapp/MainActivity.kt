@@ -1,5 +1,6 @@
 package com.example.tasktimerapp
-
+//Initialization,ViewModel Initialization: The taskViewModel RecyclerView Setup
+//Observer, Adapter Listener,Button Listeners, Swipe Gesture Handling
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

@@ -1,5 +1,5 @@
 package com.example.tasktimerapp.rv_adapter
-
+//Constructor , Constants ,Overridden Methods
 import android.content.Context
 import android.graphics.Canvas
 import androidx.recyclerview.widget.ItemTouchHelper

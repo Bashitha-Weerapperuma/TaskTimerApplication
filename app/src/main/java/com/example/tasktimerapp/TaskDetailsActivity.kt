@@ -1,5 +1,7 @@
 package com.example.tasktimerapp
-
+//ViewModel Initialization:,RecyclerView Setup:,Pie Chart Setup:
+//Observer-> .getAllTasks()
+//RecyclerView Scroll Listener:
 import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
